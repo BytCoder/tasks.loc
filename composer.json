@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "tasks\\": "vendor/tasks/core",
+      "app\\": "app"
+    }
+  },
+  "require": {
+    "gabordemooij/redbean": "dev-master"
+  }
+}

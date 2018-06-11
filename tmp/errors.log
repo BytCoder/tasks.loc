@@ -1,0 +1,22 @@
+[2018-06-11 19:48:01] Текст ошибки: Страница не найдена!!! | Файл: D:\Server\OSPanel\domains\tasks.loc\public\index.php | Строка: 8
+=================
+[2018-06-11 19:48:06] Текст ошибки: Страница не найдена!!! | Файл: D:\Server\OSPanel\domains\tasks.loc\public\index.php | Строка: 8
+=================
+[2018-06-11 21:02:39] Текст ошибки: Страница не найдена | Файл: D:\Server\OSPanel\domains\tasks.loc\vendor\tasks\core\Router.php | Строка: 35
+=================
+[2018-06-11 21:02:44] Текст ошибки: Страница не найдена | Файл: D:\Server\OSPanel\domains\tasks.loc\vendor\tasks\core\Router.php | Строка: 35
+=================
+[2018-06-11 21:03:46] Текст ошибки: Страница не найдена | Файл: D:\Server\OSPanel\domains\tasks.loc\vendor\tasks\core\Router.php | Строка: 35
+=================
+[2018-06-11 21:04:34] Текст ошибки: Страница не найдена | Файл: D:\Server\OSPanel\domains\tasks.loc\vendor\tasks\core\Router.php | Строка: 35
+=================
+[2018-06-11 21:17:14] Текст ошибки: Call to undefined function tasks\upperCamelCase() | Файл: D:\Server\OSPanel\domains\tasks.loc\vendor\tasks\core\Router.php | Строка: 56
+=================
+[2018-06-11 21:35:57] Текст ошибки: Контроллер app\controllers\PageOneController не найден | Файл: D:\Server\OSPanel\domains\tasks.loc\vendor\tasks\core\Router.php | Строка: 50
+=================
+[2018-06-11 21:36:06] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: D:\Server\OSPanel\domains\tasks.loc\vendor\tasks\core\Router.php | Строка: 50
+=================
+[2018-06-11 21:36:23] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\Server\OSPanel\domains\tasks.loc\vendor\tasks\core\Router.php | Строка: 50
+=================
+[2018-06-11 21:40:20] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: D:\Server\OSPanel\domains\tasks.loc\vendor\tasks\core\Router.php | Строка: 50
+=================
